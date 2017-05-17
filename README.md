@@ -1,3 +1,3 @@
 # hello-world-rrj
 
-This is a creat test project
+This is a great test project
